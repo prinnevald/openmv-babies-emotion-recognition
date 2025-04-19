@@ -1,0 +1,15 @@
+Full Integer without IO
+
+FER Model 0.1190
+MobileNet 0.2353
+Shallow Wide 0.2861
+ResNet 
+SqueezeNet 
+
+Full Integer with IO
+
+FER Model 0.1203
+MobileNet 0.2393
+Shallow Wide 0.2580
+ResNet 
+SqueezeNet 
